@@ -1,0 +1,4 @@
+﻿  1_t_return_without_value.c
+C:\iot_bigdata\C_Study_basic\1_CLI\2_control_repetition\3_function\2_precaution\1_t_return_without_value.c(26): error C2371: 'main': 재정의. 기본 형식이 다릅니다.
+  C:\iot_bigdata\C_Study_basic\1_CLI\2_control_repetition\3_function\2_precaution\1_t_return_without_value.c(4): note: 'main' 선언을 참조하십시오.
+C:\iot_bigdata\C_Study_basic\1_CLI\2_control_repetition\3_function\2_precaution\1_t_return_without_value.c(27): warning C4013: 'my_login'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.

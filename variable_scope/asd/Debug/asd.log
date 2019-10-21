@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\C_intemediate\variable_scope\asd\소스.cpp(4): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\C_intemediate\variable_scope\asd\소스.cpp(20): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+C:\C_intemediate\variable_scope\asd\소스.cpp(21): error C2059: 구문 오류: '}'

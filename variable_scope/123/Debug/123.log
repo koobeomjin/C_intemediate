@@ -1,0 +1,14 @@
+﻿  소스.cpp
+C:\C_intemediate\variable_scope\123\소스.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(2): error C2059: 구문 오류: ':'
+C:\C_intemediate\variable_scope\123\소스.cpp(2): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(2): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(3): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\C_intemediate\variable_scope\123\소스.cpp(3): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(2): error C2146: 구문 오류: ';'이(가) 'c' 식별자 앞에 없습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(4): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(4): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(5): error C2146: 구문 오류: ';'이(가) 'on' 식별자 앞에 없습니다.
+C:\C_intemediate\variable_scope\123\소스.cpp(5): error C2059: 구문 오류: '상수'
+C:\C_intemediate\variable_scope\123\소스.cpp(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'xc.h': No such file or directory
